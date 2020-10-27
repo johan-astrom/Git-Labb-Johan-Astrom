@@ -1,0 +1,12 @@
+commit 76fe8167dd45d6734928f78442a0f61a91c03ddb (HEAD -> master, feature)
+Author: Johan Astrom <johan.astrom89@gmail.com>
+Date:   Tue Oct 27 21:14:35 2020 +0100
+
+    Added log file
+
+commit 4c80df5da0b3c9f8a94f1b1ee4d8e6b5af32acf5 (origin/master)
+Author: Johan Astrom <johan.astrom89@gmail.com>
+Date:   Tue Oct 27 20:52:43 2020 +0100
+
+    Added .gitignore and readme.
+
