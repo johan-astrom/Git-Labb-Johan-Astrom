@@ -1,3 +1,7 @@
 #Ignore auto-generated folder attributes file
 *.DS_Store
 
+#Ignore Java files: compiled classes and package files.
+*.class
+*.jar
+*.zip
